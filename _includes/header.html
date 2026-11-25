@@ -34,6 +34,11 @@
         {% if site.subtitle and site.show-subtitle != false %}
           <span class="subtitle">{{ site.subtitle }}</span>
         {% endif %}
+        {% if page.url == "/" and site.description %}
+          <span class="lab-description">
+            {{ site.description }}
+          </span>
+        {% endif %}
       </span>
     {% endif %}
   </a>
