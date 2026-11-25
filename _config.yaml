@@ -1,8 +1,8 @@
 # site properties and page defaults
 title: URSA Lab
-subtitle: Ukrida Robotic Systems and AI Lab
+subtitle: UKRIDA Robotic Systems and Artificial Intelligence
 description: Advancing intelligent robotic systems through research in perception, learning, reasoning, and autonomous action.
-tagline: Bridging artificial intelligence and the physical world
+
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
