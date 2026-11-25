@@ -5,6 +5,6 @@
 
   # marvinyonathan96's Website
 
-  Visit **[website URL](#)** 🚀
+  Visit **[marvinyonathan96.github.io/ursa-lab.github.io](https://marvinyonathan96.github.io/ursa-lab.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
