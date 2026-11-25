@@ -1,12 +1,6 @@
 ---
 ---
 
-# URSA Lab
-{:.center}
-
-**UKRIDA Robotic Systems and Artificial Intelligence Lab**
-{:.center}
-
 *Bridging artificial intelligence and the physical world.*
 {:.center}
 
