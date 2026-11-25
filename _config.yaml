@@ -1,6 +1,7 @@
 # site properties and page defaults
 title: URSA Lab
-
+subtitle: UKRIDA Robotic Systems and Artificial Intelligence
+description: We study how to integrate artificial intelligence into robotic systems. A research group at UKRIDA.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
