@@ -10,11 +10,9 @@ proofer: false
 # site social media and other links
 links:
   email: marvin dot yonathan add ukrida dot ac dot id
-  orcid: -
   google-scholar: JT7qf0gAAAAJ
   github: marvinyonathan96
-  twitter: -
-  youtube: -
+  
 
 ### jekyll settings
 
