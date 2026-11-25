@@ -1,9 +1,16 @@
 ---
 ---
 
-# marvinyonathan96's Website
+# URSA Lab
 
-An engaging 1-3 sentence description of your lab.
+**UKRIDA Robotic Systems and Artificial Intelligence Lab**
+
+*Bridging artificial intelligence and the physical world.*
+
+Advancing intelligent robotic systems through research in
+perception, learning, reasoning, and autonomous action.
+
+**PERCEPTION · LEARNING · REASONING · ACTION**
 
 {% include section.html %}
 
