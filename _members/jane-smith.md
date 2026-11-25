@@ -3,7 +3,6 @@
 name: Marvin Yonathan Hadiyanto
 image: images/photo.jpg
 role: principal-investigator
-affiliation: UKRIDA
 aliases: MY Hadiyanto
 
 ---
