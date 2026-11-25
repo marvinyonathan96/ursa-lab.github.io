@@ -1,6 +1,6 @@
 ---
 ---
-# UKRIDA Robotic Systems and Artificial Intelligence Lab
+## UKRIDA Robotic Systems and Artificial Intelligence Lab
 
 Advancing intelligent robotic systems through research in perception, learning, reasoning, and autonomous action.
 {:.center}
