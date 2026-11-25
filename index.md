@@ -1,13 +1,8 @@
 ---
 ---
-
-*Bridging artificial intelligence and the physical world.*
-{:.center}
+# UKRIDA Robotic Systems and Artificial Intelligence Lab
 
 Advancing intelligent robotic systems through research in perception, learning, reasoning, and autonomous action.
-{:.center}
-
-**PERCEPTION · LEARNING · REASONING · ACTION**
 {:.center}
 
 {% include section.html %}
