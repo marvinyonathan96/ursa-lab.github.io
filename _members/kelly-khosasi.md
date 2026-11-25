@@ -1,6 +1,6 @@
 ---
 name: Kelly Khosasi
-image: https://github.com/marvinyonathan96/ursa-lab.github.io/images/kelly-khosasi.png
+image: https://marvinyonathan96.github.io/ursa-lab.github.io/images/kelly-khosasi.png
 role: technical-officer
 ---
 
