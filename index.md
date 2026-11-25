@@ -3,14 +3,25 @@
 
 # URSA Lab
 
-**UKRIDA Robotic Systems and Artificial Intelligence Lab**
+<div style="text-align: center;">
 
-*Bridging artificial intelligence and the physical world.*
+  <p>
+    <strong>UKRIDA Robotic Systems and Artificial Intelligence Lab</strong>
+  </p>
 
-Advancing intelligent robotic systems through research in
-perception, learning, reasoning, and autonomous action.
+  <p>
+    <em>Bridging artificial intelligence and the physical world.</em>
+  </p>
 
-**PERCEPTION · LEARNING · REASONING · ACTION**
+  <p>
+    Advancing intelligent robotic systems through research in perception, learning, reasoning, and autonomous action.
+  </p>
+
+  <p>
+    <strong>PERCEPTION · LEARNING · REASONING · ACTION</strong>
+  </p>
+
+</div>
 
 {% include section.html %}
 
