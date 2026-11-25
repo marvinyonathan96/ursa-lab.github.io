@@ -1,10 +1,8 @@
 ---
-
 name: Marvin Yonathan Hadiyanto
 image: images/photo.jpg
 role: principal-investigator
 aliases: MY Hadiyanto
-
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
