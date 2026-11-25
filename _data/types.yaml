@@ -23,7 +23,7 @@ programmer:
   description: Programmer
 
 technical-officer:
-  icon: fa-solid fa-code
+  icon: fa-solid fa-screwdriver-wrench
   description: Technical Officer
 
 mascot:
