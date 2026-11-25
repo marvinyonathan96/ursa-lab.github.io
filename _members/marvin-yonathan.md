@@ -1,6 +1,6 @@
 ---
 name: Marvin Yonathan Hadiyanto
-image: images/marvin-yonathan.png
+image: https://marvinyonathan96.github.io/ursa-lab.github.io/images/marvin-yonathan.png
 role: principal-investigator
 aliases: MY Hadiyanto
 ---
