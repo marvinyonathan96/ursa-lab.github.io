@@ -1,6 +1,6 @@
 ---
 name: Kelly Khosasi
-image: images/photo.jpg
+image: kelly-khosasi.png
 role: technical-officer
 ---
 
